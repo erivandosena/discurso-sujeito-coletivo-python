@@ -30,7 +30,7 @@ O código utiliza o modelo ChatGPT da OpenAI para gerar um parágrafo formal a p
 > Esta abordagem não visa substituir os métodos empíricos e softwares existentes na aplicação do DSC, mas proporcionar ao pesquisador outras estratégias para facilitar a precisão do processo, visando complementar e oferecer opções adicionais, possibilitando escolher entre diferentes estratégias para melhorar na acurácia dos resultados obtidos ao utilizar métodologia do *Discurso do Sujeito Coletivo*.
 
 #### Uso
-As reproduções, melhorias e adaptações deste trabalho ficam condicionados a citar o autor [RAMOS, E. S.](http://lattes.cnpq.br/3207935358521360)
+As contribuições e uso deste projeto são irrestritos seguido as orientações em [LICENSE](https://github.com/erivandosena/discurso-sujeito-coletivo-python/blob/main/LICENSE).
 
 #### Referências
 > LEFEVRE F; LEFEVRE A.M.C. [**O discurso do sujeito coletivo: um novo enfoque em pesquisaqualitativa (desdobramentos)**](https://repositorio.usp.br/item/001347796). Caxias do Sul: EDUCS, p. 256. 2003.
