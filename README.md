@@ -1,4 +1,4 @@
-## Análise de Conteúdo com Discurso do Sujeito Coletivo (DSC) usando Python
+## Análise de Conteúdo com Discurso do Sujeito Coletivo (DSC) com Python
 
 Este Notebook visa facilitar a compreensão da análise do *Discurso do Sujeito Coletivo* por meio de métodos computacionais, oferecendo uma abordagem prática e automatizada para a interpretação de dados qualitativos.
 
