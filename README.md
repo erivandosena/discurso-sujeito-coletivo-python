@@ -1,6 +1,6 @@
 ## Análise do Discurso do Sujeito Coletivo (DSC) com Python
 
-Este Notebook visa facilitar a compreensão da análise do *Discurso do Sujeito Coletivo* por meio de métodos computacionais, oferecendo uma abordagem prática e automatizada para a interpretação de dados qualitativos.
+Este notebook objetiva facilitar a análise do **Discurso do Sujeito Coletivo por meio de métodos computacionais sob a perspectiva da Ciência da Computação** e Inteligência Artificial (IA), oferecendo uma abordagem prática e automatizada para a interpretação de dados qualitativos.
 
 Este projeto **ainda em desenvolvimento**, tem como objetivo realizar uma análise de conteúdo utilizando o método "Discurso do Sujeito Coletivo" (DSC), proposto por Fernando Lefèvre e Ana Maria Cavalcanti Lefèvre, professores da Faculdade de Saúde Pública da USP. O DSC é uma abordagem na pesquisa qualitativa que busca identificar ideias centrais e representações coletivas a partir das respostas de entrevistados.
 
